@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fazilkilicf" target="blank"><img src="https://img.shields.io/twitter/follow/fazilkilicf?logo=twitter&style=for-the-badge" alt="fazilkilicf" /></a> </p>
 
-- 🌱 🌱 Currently, building beautiful apps with **Flutter & Dart** 💙
+- 🌱 Currently, building beautiful apps with **Flutter & Dart** 💙
 
 - Lifetime learner, currently learning SwiftUI
 
