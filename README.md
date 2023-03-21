@@ -1,9 +1,11 @@
-<h1 align="center">Hi 🙌, I'm Fazıl</h1>
+<h1 align="center">Hi I'm Fazil Kilic, Mobile Developer</h1>
 <h3 align="center">A mobile application developer in Turkey and remotely</h3>
 
 <p align="left"> <a href="https://twitter.com/fazilkilicf" target="blank"><img src="https://img.shields.io/twitter/follow/fazilkilicf?logo=twitter&style=for-the-badge" alt="fazilkilicf" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 🌱 Currently, building beautiful apps with **Flutter & Dart** 💙
+
+- Lifetime learner, currently learning SwiftUI
 
 - 💬 Ask me about **flutter**
 
