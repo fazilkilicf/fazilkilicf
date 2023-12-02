@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Fazil Kilic, Mobile Developer</h1>
+<h1 align="center">Hi I'm Fazil Kilic, Mobile Application Developer</h1>
 <h3 align="center">A mobile developer in Turkey and remotely</h3>
 
 <!--
