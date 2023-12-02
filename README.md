@@ -12,7 +12,7 @@ Twitter Button
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **fazilkilicf@gmail.com**
+- 📫 My e-mail to reach: **fazilkilicf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
